@@ -14,7 +14,7 @@ __plugin_usage__ = (
 )
 
 
-
+#这力的permission就规定了命令的来源，这边的weather_permission规定了可以接受来自群聊，讨论组和超级用户的私聊
 weather_permission = lambda sender: (not sender.is_privatechat) or sender.is_superuser
 
 
