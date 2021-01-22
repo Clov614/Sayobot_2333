@@ -1,2 +1,3 @@
-# Sayobot_2333
-Try to study QQ_bot by python.And help for improve python skills.
+# Sayobot
+
+基于gocqhttp的后端，以及python编写的功能实现
