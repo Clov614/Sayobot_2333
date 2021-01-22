@@ -1,6 +1,6 @@
 # Sayobot
 
-基于gocqhttp的后端，以及python编写的功能实现
+基于gocqhttp的后端，以及python编写的功能实现的聊天机器人
 
 
 ### 文件结构  
